@@ -6,11 +6,11 @@ This project from Udacity's nano-degree course "Computer Vision" is about Landma
 
 The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:
 
-__Notebook 1__ : Setting up a moving robot with senses in a simple 2D grid world [1. Robot Moving and Sensing](1. Robot Moving and Sensing.ipynb)  
+__Notebook 1__ : Setting up a moving robot with senses in a simple 2D grid world s. [project notebook 1](1. Robot Moving and Sensing.ipynb)  
 
-__Notebook 2__ : Introduction to the constraints `omega` and `xi` for Graph SLAM [1_Preliminaries](1_Preliminaries.ipynb)  
+__Notebook 2__ : Introduction to the constraints `omega` and `xi` for Graph SLAM s. [project notebook 2](2. Omega and Xi, Constraints.ipynb)  
 
-__Notebook 3__ : Implementation of SLAM  [3. Landmark Detection and Tracking](3. Landmark Detection and Tracking.ipynb)  
+__Notebook 3__ : Implementation of SLAM s. [project notebook 3](3. Landmark Detection and Tracking.ipynb)  
 
 
 
@@ -68,9 +68,9 @@ jupyter notebook
 
 Navigate to your local project folder in the Jupyter notebook, open the notebooks 1...3
 
-[1. Robot Moving and Sensing](1. Robot Moving and Sensing.ipynb)
-[1_Preliminaries](1_Preliminaries.ipynb)
-[3. Landmark Detection and Tracking](3. Landmark Detection and Tracking.ipynb)
+* [1. Robot Moving and Sensing](1. Robot Moving and Sensing.ipynb)  
+* [2. Omega and Xi, Constraints](2. Omega and Xi, Constraints.ipynb)  
+* [3. Landmark Detection and Tracking](3. Landmark Detection and Tracking.ipynb)  
 
 and run them one after another.
 
